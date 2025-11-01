@@ -4,16 +4,6 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        /*
-        Tarefa tarefa = Tarefa.addTask("Feijao");
-        Lista.adicionar(tarefa);
-        
-        System.out.println(tarefa.getStateTask());
-        
-        tarefa.turnTrue();
-        
-        System.out.println(tarefa.getStateTask());
-        */
         Scanner scanner = new Scanner(System.in);
         boolean verdade = true;
         
